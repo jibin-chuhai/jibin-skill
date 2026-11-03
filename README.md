@@ -47,7 +47,7 @@ JIBIN 的中文 AI Skill：**跨境新手 7 天动作清单**。
 打开豆包，在对话框里发这一句：
 
 ```text
-安装 yjb13941342222-eng 的 jibin-skill
+安装 jibin-chuhai 的 jibin-skill
 ```
 
 装好之后，直接在对话里说人话就能用，不需要电脑，不需要终端。
@@ -55,7 +55,7 @@ JIBIN 的中文 AI Skill：**跨境新手 7 天动作清单**。
 ### 方式二：命令行（给会用终端的人）
 
 ```bash
-npx -y skills add yjb13941342222-eng/jibin-skill -g --all
+npx -y skills add jibin-chuhai/jibin-skill -g --all
 ```
 
 ### 方式三：手动拷贝
