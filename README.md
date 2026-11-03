@@ -47,7 +47,7 @@ JIBIN 的中文 AI Skill：**跨境新手 7 天动作清单**。
 发布到 GitHub 后，在终端运行：
 
 ```bash
-npx -y skills add 你的GitHub用户名/jibin-skill -g --all
+npx -y skills add yjb13941342222-eng/jibin-skill -g --all
 ```
 
 ### 方式二：手动拷贝（推荐给不会用终端的人）
