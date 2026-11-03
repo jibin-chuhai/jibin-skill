@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "notice": "新增 jibin-logistics：发货方案判断，先支持 OZON（FBO/FBS 怎么选、8 项报价要问清、敏感货判定）。费率需自行填 rates.json，未填不会瞎报。",
+  "details_url": "https://github.com/jibin-chuhai/jibin-skill/commits/main"
+}
