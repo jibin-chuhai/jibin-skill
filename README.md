@@ -1,5 +1,7 @@
 # jibin-7days
 
+> ✅ 已在豆包实测可用：在对话框里发「安装 jibin-chuhai 的 jibin-skill」，装完直接问就行。
+
 JIBIN 的中文 AI Skill：**跨境新手 7 天动作清单**。
 
 装到支持 Skills 的 Agent（豆包、Claude Code、Codex、WorkBuddy 等）后，在对话里说一句话，就能拿到一张「接下来 7 天每天做什么」的清单。
