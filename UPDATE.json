@@ -1,5 +1,0 @@
-{
-  "version": "2.0.0",
-  "notice": "收窄为纯入局前工具：删掉新手动作清单和发货判断两个执行层技能。顺序铁律并入入局自检，敏感货判定和货代必问 8 项并入产品判断。现在 1 个入口 + 3 个判断工具。",
-  "details_url": "https://github.com/jibin-chuhai/jibin-skill/commits/main"
-}
