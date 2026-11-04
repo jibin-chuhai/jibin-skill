@@ -1,0 +1,5 @@
+{
+  "version": "1.6.0",
+  "notice": "平台覆盖从 5 个扩到 13 个（加了 Shopee、Lazada、Wildberries、Yandex Market、Coupang、Mercado Libre、Allegro、Etsy），并新增发货模式别名对照：FBO/FBS/FBA/FBM/FBY/SLS 各是什么意思。",
+  "details_url": "https://github.com/jibin-chuhai/jibin-skill/commits/main"
+}
