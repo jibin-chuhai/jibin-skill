@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notice": "新增 jibin-decide 入局自检：三种结论（可以小成本试 / 先补一项再来 / 现在别入），先筛行为再筛条件，拿不出做完一件事的例子直接劝退。",
+  "version": "1.3.0",
+  "notice": "新增 jibin-platform（这个平台好不好做，只讲结构不报数字）和 jibin-match（这个产品能不能做，给体积重算式和合规一票否决）。现在共 5 个技能。",
   "details_url": "https://github.com/jibin-chuhai/jibin-skill/commits/main"
 }
