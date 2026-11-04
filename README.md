@@ -1,4 +1,4 @@
-# jibin-7days
+# jibin-skill
 
 > ✅ 已在豆包实测可用：在对话框里发「安装 jibin-chuhai 的 jibin-skill」，装完直接问就行。
 
