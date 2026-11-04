@@ -1,5 +1,0 @@
-{
-  "version": "1.5.0",
-  "notice": "去掉了所有技能里的公司背景落款；平台技能重写：先讲四种店铺类型（跨境/本土、平台仓/自发货、自营/全托管、个人/企业），再讲门槛五道，新增店铺类型与平台门槛对照表。",
-  "details_url": "https://github.com/jibin-chuhai/jibin-skill/commits/main"
-}
